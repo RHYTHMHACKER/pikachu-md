@@ -1,6 +1,6 @@
 <h1 align="center">𝙿𝙸𝙲𝙺𝙰𝙲𝙷𝚄-𝙱𝙾𝚃-ᴍᴅ<br></h1>
 <p align="center">
-  <img src="./1627487648042.png" width="540" height="300" />
+  <img src="./src/1627487648042.png" width="540" height="300" />
 </p>
 
 <p align="center">
